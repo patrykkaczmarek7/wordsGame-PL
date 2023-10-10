@@ -1,6 +1,6 @@
 RECOMMEDATION
 
-Game is recommended only for devices with keyboard, like MacBook Air or other laptops with keyboard.
+The Words Game is recommended only for devices with keyboard, like MacBook Air or other laptops with a keyboard.
 
 HOW TO PLAY
 
@@ -8,7 +8,7 @@ ENTER button refreshes a timer.
 SPACE button changes words.
 The game is for more than 2 groups of people.
 One person by a notebook / PC makes other people in her group guess the word which is right now on the screen. 
-The groups changes, when time is out.
+The groups changes, when a time is out.
 
 USER 
 
