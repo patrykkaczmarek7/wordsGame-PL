@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gra w słowa</title>
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    </head>
+    <body class="document">
+        <header class="topBar">
+            <div id="counter"></div>
+            <div id="timerDisplay"></div>
+            <button id="refreshButton" type="button">Odśwież czas</button>
+        </header>
+        <section class="main">
+            <div id="wordDisplay"></div>
+        </section>
+        <!-- Modal -->
+        <div id="myModal" class="modal">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-headerX">
+                        <button type="button" class="close-button">X</button>
+                    </div>
+                    <div class="modal-bodyX">
+                        <p>Skończył się czas. Naciśnij klawisz ENTER, by zacząć od nowa</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="timerDisplay"></div>
+        <script src=".dist/app.js"></script>
+    </body>
+</html>
