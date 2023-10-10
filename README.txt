@@ -1,6 +1,6 @@
 RECOMMEDATION
 
-The Words Game is recommended only for devices with keyboard, like MacBook Air or other laptops with a keyboard.
+The Words Game is recommended only for devices with keyboard, like MacBook Air or other laptops.
 
 HOW TO PLAY
 
