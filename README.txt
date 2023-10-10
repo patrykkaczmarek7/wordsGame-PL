@@ -13,4 +13,4 @@ USER
 
 DEVELOPMENT 
 
-#0 `npm run compile` - compilaton form .ts file to .js file
+#0 `npm run compile` - compilaton from .ts file to .js file
